@@ -1,0 +1,15 @@
+{
+  "name": "mailchimp-get-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mailchimp/mailchimp_marketing": "^3.0.80",
+    "dotenv": "^16.3.1"
+  }
+}
